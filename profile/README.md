@@ -44,7 +44,7 @@ O **BioSearch** é uma plataforma web que:
         Beatriz Cercal
     </td>
     <td align="center">
-        <a href="https://github.com/danielmuitolegal"><img src="https://github.com/danielmuitolegal.png" width="100px;" alt="#"/></a><br>
+        <a href="https://github.com/danielmschutz"><img src="https://github.com/danielmschutz.png" width="100px;" alt="#"/></a><br>
         Daniel Schutz
     </td>
     <td align="center">
